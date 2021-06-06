@@ -1,0 +1,4 @@
+2021-06-05 17:17:13 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Синтаксическая ошибка в выражении SQL "FIRMA[*]"
+Syntax error in SQL statement "FIRMA[*]"; SQL statement:
+FIRMA [42000-200]
