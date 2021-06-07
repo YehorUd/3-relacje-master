@@ -40,9 +40,9 @@ public class AfterRun {
 
         List<Zwierze> zwierzeList = Arrays.asList(
                 new Zwierze("Amurski", "Lampart", "11", zoo1),
-                new Zwierze("Ptak", "Orzeł", "22", zoo1),
-                new Zwierze("Garrosh", "Mage", "33", zoo1),
-                new Zwierze("Desh Delauro", "Mage", "44", zoo1));
+                new Zwierze("Łysy", "Orzeł", "22", zoo1),
+                new Zwierze("Ognista", "Salamandra", "33", zoo1),
+                new Zwierze("Birmański", "Pyton", "44", zoo1));
 
         zoo1.setZwierza(zwierzeList);
 
